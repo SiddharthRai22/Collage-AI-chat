@@ -87,7 +87,7 @@ flowchart TD
 ```gcode
 Collage AI chat/
 ├── app.py                             # Main Streamlit web application
-├── 3) Conditional_workflow_And_RAG.py # Interactive CLI application script
+├── main.py                            # Interactive CLI application script
 ├── academics_handbook.pdf             # Academic rules & regulations document
 ├── fee_structure.pdf                  # College fee schedule & refund policy document
 ├── requirements.txt                   # Python project dependencies
