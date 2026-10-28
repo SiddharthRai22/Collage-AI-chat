@@ -31,7 +31,7 @@ acedemic_retriever = build_retriver("academics_handbook.pdf")
 fee_retriever = build_retriver("fee_structure.pdf")
 
 # model
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.4)
+llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0.4)
 
 
 # step 2 - state
